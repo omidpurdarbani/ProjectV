@@ -1,0 +1,8 @@
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\obj\Debug\SqlCode.csproj.AssemblyReference.cache
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\obj\Debug\SqlCode.csproj.SuggestedBindingRedirects.cache
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\obj\Debug\SqlCode.csproj.CoreCompileInputs.cache
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\bin\Debug\SqlCode.exe.config
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\bin\Debug\SqlCode.exe
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\bin\Debug\SqlCode.pdb
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\obj\Debug\SqlCode.exe
+D:\Omid\Projects\Completing\WindowsForm\SqlCode\obj\Debug\SqlCode.pdb
